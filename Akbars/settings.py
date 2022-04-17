@@ -37,6 +37,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'akbars_backend',
+    'rest_framework',
+    'djoser',
+    'corsheaders'
 ]
 
 MIDDLEWARE = [
